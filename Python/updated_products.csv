@@ -1,0 +1,6 @@
+Product,Category,Price,Quantity,Discounted Price
+Laptop,Electronics,80000,10,72000.0
+Mouse,Accessories,1500,100,1350.0
+Monitor,Electronics,20000,50,18000.0
+Keyboard,Accessories,3000,75,2700.0
+Phone,Electronics,40000,30,36000.0
